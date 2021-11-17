@@ -7,5 +7,5 @@ The	project	is	focused	on	YACS,	a centralized	scheduling	framework.	The	framewor
 ## Team Members:
 - Tharun Raj
 - Deepank Girish
-- Darshan Pirghal
+- Darshan Pirgal
 - K. Sreesh Reddy
